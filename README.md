@@ -22,7 +22,7 @@ The domains that are targeted by this Rust subset are mainly:
 - Aerospace: [DO-178C](https://en.wikipedia.org/wiki/DO-178C)
 - General: [IEC 61508](https://www.iec.ch/functionalsafety/)
 
-## Similar subsets
+## Similar subsets or guides
 [Similar subsets]: #similar-subsets
 
 - C
@@ -37,6 +37,9 @@ The domains that are targeted by this Rust subset are mainly:
 
 - Ada
     - [NASA Flight Software Branch Ada Coding Standard](https://web.archive.org/web/20100527142102/http://software.gsfc.nasa.gov/AssetsApproved/PA2.4.1.1.1.pdf)
+
+- Rust
+    - [ANSSI Guide to develop secure applications with Rust](https://anssi-fr.github.io/rust-guide/)
 
 ## License
 [License]: #license
